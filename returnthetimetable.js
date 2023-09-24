@@ -10,7 +10,7 @@
 $("#PagesUL").append ( `
     <li class="">
     <a data-menuname="Timetable" href="/Timetable">
-        <span class="icon"><i class="fa fa-list-alt"></i></span>
+        <span class="icon"><i class="fa fa-clock-o"></i></span>
         <span class="text">Timetable</span>
     </a>
     </li>
