@@ -21,7 +21,7 @@ Either download the script, or copy the code into the Tampermonkey script creato
 $("#PagesUL").append ( `
     <li class="">
     <a data-menuname="Timetable" href="/Timetable">
-        <span class="icon"><i class="fa fa-list-alt"></i></span>
+        <span class="icon"><i class="fa fa-clock-o"></i></span>
         <span class="text">Timetable</span>
     </a>
     </li>
@@ -33,6 +33,7 @@ $("#PagesUL").append ( `
 ## Contributing
 
 The script works. If it fails in the future, it wont be difficult to change.
+BromCom brought back the timetable link, so it is unnecessary now.
 
 ## License
 
